@@ -1,5 +1,5 @@
-- [Introdução](README.md)
 - [Exemplos Markdown](Sample.md)
+- [Manifesto apologético](manifesto.md)
 
 ---
 - [1 Conceitos Básicos]()
@@ -35,4 +35,6 @@
 
 ---
 - Sites Recomendados
+  - [RPG Wiki](https://wiki.daemon.com.br)
+  - [Daemon Editora](https://www.daemoneditora.com.br)
   - [GURP*Zine*](https://www.gurpzine.com.br)
