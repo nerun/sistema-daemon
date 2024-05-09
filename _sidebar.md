@@ -2,7 +2,7 @@
 - [Manifesto apologético](manifesto.md)
 
 ---
-- [1 Conceitos Básicos]()
+- [1 Conceitos Básicos](01_conceitos_basicos.md)
 - [2 Criação de Personagens]()
 - [3 Kits de Personagens]()
 - [4 Aprimoramentos]()
