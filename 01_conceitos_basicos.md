@@ -1,8 +1,10 @@
 # Conceitos Básicos
 
+![01_DassSchuff.png](_media/01_DassSchuff.png "Dass Schuff")
+
 Em qualquer jogo, para se poder jogar é preciso conhecer as regras e os termos utilizados. O Sistema Daemon não é uma exceção. No decorrer do jogo, ou mesmo quando você estiver criando seu personagem, nós utilizaremos muitos termos com os quais talvez você não esteja familiarizado. Esses conceitos e termos são tratados neste capítulo.
 
-> [!Attention]
+> [!Attention|style:flat]
 > 
 > **Regra de Ouro:** você pode acrescentar, alterar ou remover qualquer regra que desejar, para que seu jogo fique do jeito que você gosta. Não existe forma errada de se jogar RPG.
 
@@ -61,8 +63,6 @@ Em qualquer jogo, para se poder jogar é preciso conhecer as regras e os termos 
 
 ----
 **Teste**: em todo RPG, os personagens precisam verificar se conseguiram abrir uma porta trancada, se encontraram o livro que procuravam na biblioteca ou saber qual arma matou o corpo que investigam. Isto é chamado Teste. Os testes são feitos com porcentagens. Joga-se 1d100 com os modificadores e verifica-se se o número sorteado foi MENOR ou IGUAL ao número testado, caso em que o teste terá sido bem-sucedido.
-
-[[File:DassSchuff.png|center|330px]]
 
 **Teste de Resistência:** uma categoria especial de teste. Ele é utilizado para saber se o personagem é capaz de suportar uma provação de ordem física, mágica, mental ou de alguma outra origem. Em geral, utiliza-se Força de Vontade (WILL) para magia e Constituição (CON) para testes físicos. Se uma magia, item mágico ou poder confere uma resistência extra contra algum tipo de evento (fogo, por exemplo), jogue os dados referentes e some ao atributo cada vez que o evento ocorrer (lembre de corrigir o valor de teste).
 
