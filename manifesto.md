@@ -2,7 +2,7 @@
 
 ## Um formato que perdura no tempo
 
-[O padrão Unicode](https://en.wikipedia.org/wiki/Unicode) foi uma revolução ao transcender as limitações das codificações de caracteres tradicionais, como ASCII, porque o Unicode suporta outros caracteres além dos 128 disponíveis no idioma inglês, o que o torna universal. E o formato [UTF-8](https://en.wikipedia.org/wiki/UTF-8) foi mestre na implementação do padrão Unicode ao incorporar ASCII. Na verdade, ASCII é agora um subconjunto do UTF-8.
+O padrão [Unicode](https://en.wikipedia.org/wiki/Unicode) foi uma revolução ao transcender as limitações das codificações de caracteres tradicionais, como ASCII, porque o Unicode suporta outros caracteres além dos 128 disponíveis no idioma inglês, o que o torna universal. E o formato [UTF-8](https://en.wikipedia.org/wiki/UTF-8) foi mestre na implementação do padrão Unicode ao incorporar ASCII. Na verdade, ASCII é agora um subconjunto do UTF-8.
 
 Esta informação é relevante porque o formato ASCII sobreviveu ao tempo e é considerado um dos melhores formatos para armazenar textos eletrônicos (etextos) que perduram no tempo. A maioria dos romances, livros, contos e histórias de domínio público disponíveis no [Projeto Gutenberg](https://www.gutenberg.org) estão no formato ASCII.
 
