@@ -31,7 +31,7 @@ _Daímōn_ em grego, ou _daemon_ em latim, eram divindades menores, espíritos o
 
 _Nómos_ em grego, significa lei, regra, jurisdição (local onde vigora uma lei) e, por extensão, um distrito ou província administrativa. As 42 províncias do Antigo Egito eram chamadas em hieróglifo de "sepate" (_sepat_), e foram traduzidas em grego como _nómos_. Num sentido mais amplo, _nómos_ é um sistema jurídico, porque sistema é um conjunto de elementos interligados sobre um mesmo assunto. Ou seja, um apanhado de regras.
 
-> [!Note]
+> [!Tip]
 > 
 > Como mera curiosidade, e sem relação com o jogo, Nomos também era o daemon das leis, estatutos e normas. Nomos era casado com Eusébia, daemon da piedade, e juntos deram à luz a filha Diceosine, daemon da justiça natural. Interpretando: a lei quando aplicada com piedade faz nascer a justiça.
 

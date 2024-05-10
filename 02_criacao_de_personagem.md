@@ -22,19 +22,13 @@ Este primeiro passo servirá para determinar o tipo de personagens a ser criado,
 
 Estes são alguns tipos comuns de Campanhas de RPG. Naturalmente, as possibilidades são infinitas. Crie seus próprios cenários de jogo e surpreenda seus jogadores.
 
-* __Realista/Terror__: os personagens começam com 101 pontos de Atributos (entre 5 e 18), 5 pontos de Aprimoramento e podem chegar a até 500 pontos em Perícias. Possuem 1 inimigo inicial. Geralmente são ambientados na época moderna (dias de hoje), mas pode ser realizado em qualquer período. Ex: Trevas, Invasão, Inimigo Natural.
+* __Realista, Investigação e Horror/Terror__: os personagens começam com 101 pontos de Atributos (entre 5 e 18), 5 pontos de Aprimoramento, podem chegar a até 500 pontos em Perícias, e devem possuir ao menos um inimigo inicial. Pode ser situada em qualquer período histórico ou fantástico. Ex. moderno: Trevas, Invasão, Inimigo Natural. Ex. medieval: Arkanun, Inquisição, Templários.
 
-* __Aventura/Fantasia__: os personagens começam com 111 pontos de Atributos (entre 5 e 20), 6 pontos de Aprimoramento e podem chegar a até 500 pontos em Perícias. Possuem 1 inimigo inicial. Geralmente são ambientados na época Medieval Fantástica (séculos X a IX) com magos, elfos, duendes e outras criaturas. Ex: Tormenta, Arcádia, Hi-Brazil.
+* __Aventura, Cyberpunk, Espionagem, Espacial, Fantasia e Heroico__: os personagens começam com 111 pontos de Atributos (entre 7 e 20), 6 pontos de Aprimoramento, podem chegar a até 500 pontos em Perícias, e devem possuir ao menos 2 inimigos iniciais. Ex.: Anime RPG, Arcádia, Hi-Brazil, Tagmar, Tormenta.
 
-* __Horror Medieval__: um dos favoritos dos jogadores. Os personagens começam com 101 pontos de Atributos (5-18), 5 pontos de Aprimoramento e podem chegar a até 500 pontos de Perícias e pelo menos 1 inimigo inicial. Ex. Arkanun, Inquisição, Templários.
+* __Imortais e Super-heróis__: neste tipo de Campanha, os personagens são vampiros, dragões, anjos caídos, demônios, super heróis, nefilins, mutantes, magos imortais, avatares, semideuses e outras criaturas poderosas. Começam com 131 pontos de Atributo (entre 12 e 30), 1 ponto de Aprimoramento para cada 20 anos de vida (mínimo de 6 pts) e um inimigo a cada 50 anos de vida do personagem (mínimo de 2 inimigos). Estabeleça um limite de idade para os personagens, para que todos possuam poderes equivalentes. Regras para personagens mais poderosos estão nos livros Anjos, Demônios, Spiritum, Supers RPG e Vampiros.
 
-* __Espionagem/Heroico__: os personagens começam com 111 pontos de Atributos (entre 5 e 20), 6 pontos de Aprimoramento e podem chegar a até 500 pontos em Perícias. Começam com pelo menos dois inimigos iniciais. Geralmente são ambientados na época contemporânea.
-
-* __Espacial/Intergalático__: os personagens começam com 111 pontos de Atributos (entre 7 e 20), 6 pontos de Aprimoramento e podem chegar a até 500 pontos em Perícias. Começam o jogo com dois inimigos iniciais.
-
-* __Imortais/Heróis__: neste tipo de Campanha, os personagens são vampiros, dragões, anjos caídos, demônios, super heróis, nefilins, mutantes, magos imortais, avatares, semideuses e outras criaturas poderosas. Começam com 101 a 130 pontos de Atributo (entre 12 e 30), 1 ponto de Aprimoramento para cada 20 anos de vida e um inimigo a cada 50 anos de vida do personagem (mínimo 2 inimigos). Estabeleça um limite de Idade para os personagens, para que todos possuam poderes equivalentes. Regras para personagens mais poderosos estão nos livros Anjos, Demônios, Vampiros e Spiritum.
-
-* __Outros Ambientes__: o Sistema Daemon possui regras genéricas podendo ser utilizado em qualquer tipo de ambientação. Além dos exemplos acima o Mestre pode ambientar sua Campanha em outros tempos e locais, como por exemplo II Guerra Mundial, Egito Antigo, Piratas, Japão Feudal, China, Renascença, Império Romano, Aventuras Futuristas, Guerra do Vietnã, entre tantos outros.
+O Sistema Daemon possui regras genéricas podendo ser utilizado em qualquer tipo de ambientação. Além dos exemplos acima o Mestre pode ambientar sua Campanha em outros tempos e locais, como por exemplo II Guerra Mundial, Egito Antigo, Piratas, Japão Feudal, China, Renascença, Império Romano, Aventuras Futuristas, Guerra do Vietnã, entre tantos outros.
 
 ## Passo 2: Determinando o passado
 
@@ -164,17 +158,17 @@ Finch entrou em contato com os iluminados através de seu professor de direito c
 Assim, o jogador decide comprar os kits Advogado (mundano) e Iluminado (místico). 
 
 __Iluminado__
-* Custo: 2 pts de Aprimoramento, 200 pts de Perícia.
-* Perícias: Pistola 30%, Ciências (Filosofia 20%, História 20%, Teologia 20%), Ciências Proibidas (Alquimia 10%, Demônios 25%, Oculto 35%, Teoria da Magia 40%, Viagem Astral 10%), Etiqueta 20%, Manipulação (Interrogatório 30%, Intimidação 40%, Lábia 20%, Liderança 30%), Legislação 30%. 
-* Aprimoramentos: Recursos e Dinheiro 2, Pontos Heroicos 1, Armas de Fogo 1.
-* Pontos de Fé: 0.
-* Pontos de Magia: 0.
-* Pontos Heroicos: 1 por nível.
+- Custo: 2 pts de Aprimoramento, 200 pts de Perícia.
+- Perícias: Pistola 30%, Ciências (Filosofia 20%, História 20%, Teologia 20%), Ciências Proibidas (Alquimia 10%, Demônios 25%, Oculto 35%, Teoria da Magia 40%, Viagem Astral 10%), Etiqueta 20%, Manipulação (Interrogatório 30%, Intimidação 40%, Lábia 20%, Liderança 30%), Legislação 30%. 
+- Aprimoramentos: Recursos e Dinheiro 2, Pontos Heroicos 1, Armas de Fogo 1.
+- Pontos de Fé: 0.
+- Pontos de Magia: 0.
+- Pontos Heroicos: 1 por nível.
 
 __Advogado__
-* Custo: 2 pts. de Aprimoramento, 220 pts. de Perícia.
-* Perícias: Artes (Atuação 20%, Redação 30%), Ciências (Criminalística 40%, Direito 40%, Filosofia 10%, Literatura 10%, Psicologia 10%), Etiqueta 30%, Idiomas (Idioma Nativo 20%, Latim 20%), Manipulação (Interrogatório 20%, Intimidação 20%),  Negociação (Barganha 20%, Burocracia 20%).
-* Aprimoramentos: Contatos 2, Biblioteca 1, Recursos e Dinheiro 2.
+- Custo: 2 pts. de Aprimoramento, 220 pts. de Perícia.
+- Perícias: Artes (Atuação 20%, Redação 30%), Ciências (Criminalística 40%, Direito 40%, Filosofia 10%, Literatura 10%, Psicologia 10%), Etiqueta 30%, Idiomas (Idioma Nativo 20%, Latim 20%), Manipulação (Interrogatório 20%, Intimidação 20%),  Negociação (Barganha 20%, Burocracia 20%).
+- Aprimoramentos: Contatos 2, Biblioteca 1, Recursos e Dinheiro 2.
 
 Foram gastos 4 pontos de Aprimoramento e 420 pontos de Perícias.
 
@@ -184,20 +178,20 @@ A próxima etapa é lapidar um pouco mais a história de seu personagem. Para is
 
 _De acordo com o Background, o jogador decidiu escolher para Peter os seguintes Aprimoramentos (abaixo). Sua ficha ficará assim:_
 
-;Iluminado (custo 2)
-* Recursos 2
-* Pontos Heroicos 1
-* Armas de Fogo 1
+__Iluminado (custo 2)__
+- Recursos 2
+- Pontos Heroicos 1
+- Armas de Fogo 1
 
-;Advogado (custo 2)
-* Contatos 2
-* Biblioteca 1
-* Recursos 2
+__Advogado (custo 2)__
+- Contatos 2
+- Biblioteca 1
+- Recursos 2
 
-;Poderes Mágicos 2
-;Fobia (medo de lugares altos) -1
+__Poderes Mágicos 2__
+__Fobia (medo de lugares altos) -1__
 
-;Total: 5 pontos
+__Total: 5 pontos__
 
 ## Passo 6: Profissão e Perícias
 
@@ -207,11 +201,12 @@ Assuma que o seu personagem pode ser qualquer coisa que você quiser (desde, é 
 
 Os pontos de Perícia são calculados da seguinte maneira:
 
-<center><code>__Pontos = 10 x Idade + 5 x INT__</code></center>
+    Pontos = 10 x Idade + 5 x INT
 
-OBSERVAÇÃO: Recomenda-se distribuir PRIMEIRO os pontos de Perícia “brutos” (ou seja, aqueles que seu personagem tem direito) e DEPOIS acrescentar os bônus iniciais de Atributos. Isto lhe poupará muito tempo e cálculos.
+OBSERVAÇÃO: Recomenda-se distribuir PRIMEIRO os pontos de Perícia "brutos" (ou seja, aqueles que seu personagem tem direito) e DEPOIS acrescentar os bônus iniciais de Atributos. Isto lhe poupará muito tempo e cálculos.
 
 Desse modo, Peter Finch possui (40x10 + 17x5 =485) 485 pontos para dividir entre seus Kits e Perícias.
+
 Com os kits, Peter Finch ficou com as seguintes Perícias:
 
 Faca 28/28, Artes - Atuação 33%, Artes - Redação 47%, Criminalística 40%, Direito 40%, Filosofia 40%, História 20%, Literatura 10%, Psicologia 10%, Teologia 20%, Alquimia 20%, Demônios 25%, Oculto 35%, Teoria da Magia 40%, Viagem Astral 10%, Etiqueta 63%, Idiomas - Nativo 50%, Latim 20%, Interrogatório 67%, Intimidação 59%, Lábia 33%, Liderança 43%, Barganha 33%, Burocracia 37%
