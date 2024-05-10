@@ -9,6 +9,8 @@ Este site disponibiliza as regras do **Sistema Daemon** &mdash; mas não o Unive
 
 ## Sobre esta Edição
 
+<img align="right" src="https://nerun.github.io/sistema-daemon/_media/Tetragrammaton.png" width="250">
+
 __Daimonomicon__ consolida as regras dos cinco principais livros do Sistema Daemon e que constituem a sua espinha dorsal: __Anjos - A Cidade de Prata__, __Demônios - A Divina Comédia__, __Spiritum - O Reino dos Mortos__, __Trevas__ e __Vampiros Mitológicos__. Além de ser um amplo trabalho de uniformização das regras, é também uma revisão textual, corrigindo erros de digitação e formatação, e adaptando ao Acordo Ortográfico de 1990, em vigor desde 2009, em caráter transitório e facultativo até 2015, e obrigatório desde 2016. Esses manuais foram escritos antes de 2004 e há muito urgiam por uma revisão.
 
 ### Etimologia
@@ -30,8 +32,6 @@ _Daímōn_ em grego, ou _daemon_ em latim, eram divindades menores, espíritos o
 > O Sistema Daemon adotou a acepção grega: esses espíritos, alguns bons, outros maus, que nos rodeiam e nos assombram. Daemon foi escolhido para fazer referência ao gênero de histórias de RPG as quais o sistema se propõe a narrar: sobre o mundo oculto, feitiçaria, anjos, demônios, fantasmas, magos, vampiros, criaturas sobrenaturais extraordinárias, histórias contadas ao redor de uma fogueira e que às vezes nos fazem perder o sono.
 
 _Nómos_ em grego, significa lei, regra, jurisdição (local onde vigora uma lei) e, por extensão, um distrito ou província administrativa. As 42 províncias do Antigo Egito eram chamadas em hieróglifo de "sepate" (_sepat_), e foram traduzidas em grego como _nómos_. Num sentido mais amplo, nómos é um sistema jurídico, porque sistema é um conjunto de elementos interligados sobre um mesmo assunto. Ou seja, um apanhado de regras.
-
-<img align="right" src="https://nerun.github.io/sistema-daemon/_media/Tetragrammaton.png">
 
 > [!Note]
 > 
