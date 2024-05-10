@@ -1,8 +1,6 @@
-# Documento de Referência do Sistema Daemon
+<h1 align="center">Documento de Referência do Sistema Daemon</h1>
 
-<p align="center">
-	&mdash; <i><b>Edição Daimonomicon</b></i> &mdash;
-</p>
+<p align="center">&mdash; <i><b>Edição Daimonomicon</b></i> &mdash;</p>
 
 Este site disponibiliza as regras do **Sistema Daemon** &mdash; mas não o Universo Trevas/Arkanun &mdash; no [formato markdown](manifesto.md). O Sistema Daemon é licenciado sob os termos da Licença Daemon.
 
