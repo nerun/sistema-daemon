@@ -4,8 +4,8 @@
 ---
 <span style="font-size:14pt; font-weight:bold">Daimonomicon</span>
 - [1 Conceitos Básicos](01_conceitos_basicos.md)
-- [2 Criação de Personagens]()
-- [3 Kits de Personagens]()
+- [2 Criação de Personagem](02_criacao_de_personagem.md)
+- [3 Kits de Personagem]()
 - [4 Aprimoramentos]()
 - [5 Perícias]()
 - [6 Pontos Heroicos]()
