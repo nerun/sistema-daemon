@@ -9,8 +9,6 @@ Este site disponibiliza as regras do **Sistema Daemon** &mdash; mas não o Unive
 
 ## Sobre esta Edição
 
-<img align="right" src="https://nerun.github.io/sistema-daemon/_media/Tetragrammaton.png" width="250">
-
 __Daimonomicon__ consolida as regras dos cinco principais livros do Sistema Daemon e que constituem a sua espinha dorsal: __Anjos - A Cidade de Prata__, __Demônios - A Divina Comédia__, __Spiritum - O Reino dos Mortos__, __Trevas__ e __Vampiros Mitológicos__. Além de ser um amplo trabalho de uniformização das regras, é também uma revisão textual, corrigindo erros de digitação e formatação, e adaptando ao Acordo Ortográfico de 1990, em vigor desde 2009, em caráter transitório e facultativo até 2015, e obrigatório desde 2016. Esses manuais foram escritos antes de 2004 e há muito urgiam por uma revisão.
 
 ### Etimologia
