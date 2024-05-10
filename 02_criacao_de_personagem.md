@@ -195,21 +195,49 @@ __Total: 5 pontos__
 
 ## Passo 6: Profissão e Perícias
 
-Dependendo da época da Campanha, tipo de Aventuras e tipo de grupo, existem infinitas possibilidades de profissões para escolher. Nos anos 90, a quantidade possível de empregos, subempregos ou bicos que uma pessoa pode fazer é extenso demais para ser listado aqui.
+Dependendo da época e tipo da Campanha, podem existir infinitas possibilidades de profissões para escolher. Atualmente, a quantidade possível de empregos, subempregos ou bicos que uma pessoa pode fazer é extenso demais para ser listado aqui.
 
-Assuma que o seu personagem pode ser qualquer coisa que você quiser (desde, é claro, não atrapalhe a Campanha ou o Background dos outros personagens). Uma profissão não é obrigatória. Dependendo da época da Campanha, elas podem nem mesmo existir! E dependendo do mundo de Campanha, até mesmo este conceito pode estar ultrapassado...
+Assuma que o seu personagem pode ser qualquer coisa que o jogador quiser, desde que, é claro, não atrapalhe a Campanha ou a história dos outros personagens. ter uma profissão não é obrigatório. Dependendo da época da Campanha, elas podem nem mesmo existir! E dependendo do mundo de Campanha, até mesmo este conceito pode estar ultrapassado...
 
 Os pontos de Perícia são calculados da seguinte maneira:
 
-    Pontos = (10 x Idade) + (5 x INT)
+<p align="center">Pontos = (10 x Idade) + (5 x INT)</p>
 
-OBSERVAÇÃO: Recomenda-se distribuir PRIMEIRO os pontos de Perícia "brutos" (ou seja, aqueles que seu personagem tem direito) e DEPOIS acrescentar os bônus iniciais de Atributos. Isto lhe poupará muito tempo e cálculos.
+> [!Tip]
+> 
+> DICA: recomenda-se distribuir PRIMEIRO os pontos de Perícia "brutos" (ou seja, aqueles a que seu personagem tem direito) e DEPOIS acrescentar os bônus iniciais de Atributos. Isto lhe poupará muito tempo e cálculos.
 
-Desse modo, Peter Finch possui (10x40 + 5x17 = 485) 485 pontos para dividir entre seus Kits e Perícias.
+_Desse modo, Peter Finch possui 500 pontos para dividir entre seus Kits e Perícias. Porque `(10 x 65) + (5 x 17) = 735` mas, por se tratar de Campanha realista, ele está limitado a 500 pontos._
 
-Com os kits, Peter Finch ficou com as seguintes Perícias:
+_Com os kits, Peter Finch ficou com as seguintes Perícias:_
 
-Faca 28/28, Artes - Atuação 33%, Artes - Redação 47%, Criminalística 40%, Direito 40%, Filosofia 40%, História 20%, Literatura 10%, Psicologia 10%, Teologia 20%, Alquimia 20%, Demônios 25%, Oculto 35%, Teoria da Magia 40%, Viagem Astral 10%, Etiqueta 63%, Idiomas - Nativo 50%, Latim 20%, Interrogatório 67%, Intimidação 59%, Lábia 33%, Liderança 43%, Barganha 33%, Burocracia 37%
+| Perícias                       | Iluminados | Advogado | Atributo | Total |
+|--------------------------------|:----------:|:--------:|:--------:|:-----:|
+| Armas Brancas (Facas)          |            |          |          | 28/28 |
+| Artes (Atuação)                |            |          |          |  33%  |
+| Artes (Redação)                |            |          |          |  47%  |
+| Ciências (Criminalística)      |            |          |          |  40%  |
+| Ciências (Direito)             |            |          |          |  40%  |
+| Ciências (Filosofia)           |            |          |          |  40%  |
+| Ciências (História)            |            |          |          |  20%  |
+| Ciências (Literatura)          |            |          |          |  10%  |
+| Ciências (Psicologia)          |            |          |          |  10%  |
+| Ciências (Teologia)            |            |          |          |  20%  |
+| C. Proibidas (Alquimia)        |            |          |          |  20%  |
+| C. Proibidas (Demônios)        |            |          |          |  25%  |
+| C. Proibidas (Oculto)          |            |          |          |  35%  |
+| C. Proibidas (Teoria da Magia) |            |          |          |  40%  |
+| C. Proibidas (Viagem Astral)   |            |          |          |  10%  |
+| Etiqueta                       |            |          |          |  63%  |
+| Idiomas (Latim)                |            |          |          |  20%  |
+| Idiomas (Nativo)               |            |          |          |  50%  |
+| Manipulação (Interrogatório)   |            |          |          |  67%  |
+| Manipulação (Intimidação)      |            |          |          |  59%  |
+| Manipulação (Lábia)            |            |          |          |  33%  |
+| Manipulação (Liderança)        |            |          |          |  43%  |
+| Negociação (Barganha)          |            |          |          |  33%  |
+| Negociação (Burocracia)        |            |          |          |  37%  |
+| Pesquisa                       |            |          | PER 16   |  31%  |
 
 ## Passo 7: PVs, IP e Iniciativa
 
