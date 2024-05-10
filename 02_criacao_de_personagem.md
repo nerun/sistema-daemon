@@ -16,7 +16,7 @@ Um Mestre realmente habilidoso pode conduzir o jogo de modo que os jogadores NUN
 
 ## Passo 1: Campanha e Cenário
 
-Este primeiro passo servirá para determinar o tipo de personagens a ser criado, bem como limitará a escolha de Perícias e Aprimoramentos compatíveis com a época escolhida. Assim se evita personagens com Atributos exagerados em uma Campanha de Terror, ou personagens com "atirar com metralhadora" em uma Campanha medieval... O Mestre sempre deve vetar Perícias ou Aprimoramentos que julgar incompatíveis com a época e local escolhido para o início da Campanha.
+O primeiro passo é determinar o escopo da Campanha a ser narrada, pois isso limitará a escolha de Perícias e Aprimoramentos compatíveis com o tipo e época escolhida. Assim se evita personagens com Atributos exagerados em uma Campanha de Terror, ou personagens com "atirar com metralhadora" em uma Campanha medieval... O Mestre sempre deve vetar Perícias ou Aprimoramentos que julgar incompatíveis com a época e local escolhido para o início da Campanha.
 
 ### Tipos de Campanha
 
@@ -32,78 +32,78 @@ O Sistema Daemon possui regras genéricas podendo ser utilizado em qualquer tipo
 
 ## Passo 2: Determinando o passado
 
-Imagine o que aconteceu com seu personagem desde o seu nascimento até a data do início da Campanha. Escreva a história primeiro, depois se preocupe com os detalhes numéricos. Números não são importantes, o importante é criar um personagem coerente. Escolha um nome, idade, local de nascimento, o nome de seus pais e irmãos (se tiver), como foi seu crescimento, que tipo de educação teve e seu objetivo na vida.
+Todo indivíduo possui uma história de vida. Os jogadores devem imaginar o que aconteceu com seus personagens desde o nascimento até a data do início da Campanha. A história deve ser escrita primeiro, todo o resto são meros detalhes numéricos. Números não são relevantes, o importante é criar um personagem único e coerente. Várias questões devem ser respondidas: nome, idade, local de nascimento, familiares, infância, adolescência, que tipo de educação teve e seus objetivos na vida.
 
-Para facilitar, fornecemos um pequeno questionário que deve auxiliar os jogadores na construção de seus personagens.
+Para facilitar, fornecemos um questionário que, embora não seja pequeno, é possível passar por ele rapidamente, e deve ser capaz de auxiliar tanto os jogadores novatos quanto os veteranos na construção de seus personagens.
 
 ### História
 
 1. Qual é o nome dele?
 2. Quantos anos ele tem?
-3. Quando e onde ele nasceu e cresceu?
-4. Ele conheceu seus pais? Como foi sua infância?
-5. O que sente sobre eles?
-6. Os pais dele ainda estão vivos?
-7. Se sim, como e onde eles vivem?
-8. Ele tem irmãos ou irmãs? Sabe onde eles estão e o que estão fazendo? (válido para outros tipos de parentes).
-9. Ele teve amigos em sua juventude? Descreva-os.
-10. Ele é casado (ou noivo ou viúvo)? Se for, como aconteceu?
-11. Ele tem filhos? Se tem, como eles são?
-12. Ele recebeu educação formal? Se teve até onde ela foi?
-13. Como ele aprendeu o que ele faz hoje e a ser o que ele é?
-14. O que seu personagem faz para viver?
-15. Por que ele escolheu essa profissão?
-16. Como ele é fisicamente em detalhes?
-17. Qual é o aspecto da aparência física dele que é mais distintiva ou mais facilmente notada?
+3. Quando e onde ele nasceu e cresceu? Como foi sua infância?
+4. Ele conheceu seus pais? O que sente sobre eles? Os pais dele ainda estão vivos? Se sim, como e onde eles vivem?
+5. Ele tem irmãos? Sabe onde estão e o que estão fazendo? Tem outros parentes relevantes em sua vida?
+6. Ele teve amigos em sua juventude? Descreva-os.
+7. Ele é casado (ou noivo ou viúvo)? Se for, como aconteceu?
+8. Ele tem filhos? Se tem, como eles são?
+9. Ele recebeu educação formal? Se teve até onde ela foi?
+10. Como ele aprendeu o que ele faz hoje e a ser o que ele é?
+11. O que o personagem faz para viver?
+12. Por que ele escolheu essa profissão?
+13. Como é sua aparência física em detalhes? Possui alguma característica distintiva ou mais facilmente notada?
 
-### Objetivos / Motivação
+### Objetivos e Motivações
 
-18. Ele tem algum objetivo? Se tem, qual é?
-19. E por que ele tenta fazer isso?
-20. O que ele vai fazer quando conseguir cumprir seu objetivo?
-21. O que ele vai fazer se falhar?
-22. O que ele considera seu maior obstáculo no seu sucesso?
-23. O que ele faz para sobrepujar esses obstáculos?
-24. Se ele pudesse mudar alguma coisa no mundo, o que seria?
-25. Se ele pudesse mudar alguma coisa em si mesmo, o que seria?
-26. Ele tem medo de alguma coisa?
+14. Ele tem algum objetivo ou sonho? Se sim, qual?
+15. E por que ele tenta fazer isso?
+16. O que ele vai fazer quando conseguir cumprir seu objetivo?
+17. O que ele vai fazer se falhar?
+18. O que ele considera como maior obstáculo ao seu sucesso?
+19. Como ele pretende sobrepujar esses obstáculos?
+20. Se ele pudesse mudar alguma coisa no mundo, o que seria?
+21. Se ele pudesse mudar alguma coisa em si mesmo, o que seria?
+22. Ele tem medo de alguma coisa ou alguém?
 
 ### Personalidade
 
-27. Como as outras pessoas descrevem seu personagem?
-28. Como ele se auto-descreveria?
-29. Qual é a atitude de seu personagem em relação ao mundo?
-30. Qual é a atitude dele em relação às outras pessoas?
-31. Ele tem atitudes diferenciadas para certos grupos de pessoas?
+23. Como as outras pessoas descrevem seu personagem?
+24. Como ele descreveria a si mesmo?
+25. Qual é a atitude do personagem em relação ao mundo?
+26. Qual é a atitude dele em relação às outras pessoas?
+27. Ele tem atitudes diferenciadas para certos grupos de pessoas?
 
-### Gostos e preferências
+### Gostos e Preferências
 
-32. Como ele passa suas horas de lazer?
-33. Que coisas ele gosta de vestir?
-34. O que ele gosta mais no trabalho / ocupação?
-35. O que ele gosta de comer?
-36. Ele coleciona algo ou tem algum passatempo?
-37. Ele tem algum animal de estimação?
-38. Que tipo de companhia ele prefere?
-39. E que tipo de amante?
-40. Ele tem algum sonho?
+28. Como ele passa suas horas de lazer?
+29. Como ele gosta de se vestir?
+30. O que ele mais gosta na sua profissão ou emprego?
+31. O que ele gosta de comer?
+32. Ele coleciona algo ou tem algum passatempo?
+33. Ele tem algum animal de estimação?
+34. Que tipo de companhia ele prefere?
+35. E que tipo de amante?
+36. Há algum lugar especial que ele costume frequentar?
 
 ### Ambiente
 
-41. Onde ele mora e como é esse lugar?
-42. Como é o clima/atmosfera?
-43. Por que ele mora lá?
-44. Quais são os problemas comuns lá?
-45. Como é sua rotina diária?
-46. Existe alguma coisa que ele deixou para trás?
+37. Onde ele mora e como é esse lugar?
+38. Como é o clima, atmosfera ou vibrações do lugar?
+39. Por que ele mora lá?
+40. Quais são os problemas comuns lá?
+41. Como é sua rotina diária?
+42. Existe alguma coisa que ele deixou para trás?
 
-O Mestre deve recompensar uma história bem construída, permitindo ao jogador que utilize os amigos e familiares como contatos, caso seu personagem necessite de ajuda durante o curso de uma Aventura.
+O Mestre deve recompensar uma história bem construída, permitindo ao jogador que utilize os amigos e familiares como contatos ou aliados confiáveis, caso seu personagem necessite de ajuda durante o curso de uma Aventura.
 
-Nosso exemplo será Peter Finch, nascido em NY em 1959, filho de imigrantes poloneses que vieram para a América foragidos da Segunda Guerra Mundial. Finch passou toda uma infância pobre, sendo obrigado por seus pais a estudar enquanto todos os outros garotos passavam o tempo cometendo pequenos furtos e metidos em encrencas.
-
-Finch formou-se em direito em 1984, dois anos após ter seu primeiro contato com os iluminados e com a Magia. Membro de uma sociedade secreta disposta a ajudar a humanidade, Peter utilizava seus conhecimentos como advogado para dar auxílio às pessoas pobres de sua antiga vizinhança. Possui um irmão chamado Marco, que trabalha com seu pai em uma mercearia, próxima à ponte do Brooklin.
-
-Peter vivia uma vida normal, até o dia em que uma carta chegou, no inverno de 1997. Descobriram que tinham um parente imigrante na Inglaterra que havia falecido recentemente e não deixara herdeiros, a não ser o pai de Finch e precisaria ir até Londres para verificar detalhes sobre a herança, escondida a tanto custo das tropas nazistas. Finch procurou ajuda dos iluminados e conseguiu abrigo na Loja de Praga, onde encontraria outros membros que o auxiliariam no que fosse necessário.
+> _Nosso exemplo será Peter Nowak Finch, nascido em New York em 1959, filho de uma imigrante polonesa foragida da Segunda Guerra Mundial e de um sargento novaiorquino. Finch teve uma infância pobre, sendo obrigado por seus pais a estudar enquanto todos os outros garotos passavam o tempo cometendo pequenos furtos e metidos em encrencas. Possui um irmão chamado Marc, que trabalhava com seu pai em uma mercearia, próxima à ponte do Brooklin. Sua mãe faleceu cedo._
+>
+> _Peter formou-se em direito em 1984, dois anos após ter seu primeiro contato com os iluminados e com a magia. Membro de uma sociedade secreta disposta a ajudar a humanidade, Peter utilizava seus conhecimentos como advogado para dar auxílio às pessoas pobres de sua antiga vizinhança._
+>
+> _Ele vivia uma vida normal, até o dia em que chegou uma carta, no inverno de 1997. Descobriram que a tia da mãe de Peter, portanto sua tia-avó, de quem há muito não se tinha notícia, também imigrante polonesa, vivia na Inglaterra e faleceu por aqueles dias. Sem descendentes diretos, e falecida sua mãe, os únicos herdeiros eram Peter e seu irmão Marc. Peter foi até Londres, como representante legal seu e de seu irmão, para resolver a papelada e verificar um item especial, escondido a tanto custo das tropas nazistas. Finch procurou ajuda dos iluminados e conseguiu abrigo na Loja de Praga, onde encontraria outros membros que o auxiliariam no que fosse necessário._
+>
+> _O artefato arruinou sua via e a de alguns dos quais ele amava. Fez inimigos na Europa e também aliados importantes. Galgou postos na sociedade secreta a que pertence, chegando a Mestre da Loja do Brooklyn. Ascendeu em sua carreira jurídica e tornou-se um advogado conhecido. Seu pai foi devorado por um demônio nazista, e seu irmão Marc é dono de uma agora renovada e tradicional mercearia no bairro, e pratica alguns rituais de sucesso na dispensa dos fundos._
+>
+> _Ele tem 65 anos e a vida seguia calma, até que em 2024 recebe uma mensagem no WhatsApp, do Mestre de uma Loja de New Orleans, pedindo ajuda com eventos estranhos que começaram a ocorrer após um círculo de leitura em voz alta de um alfarrábio de feitiços. Nos prints, reconhece um símbolo familiar, visto na Europa 27 anos atrás. Ele teria que verificar, e seu irmão não ficaria feliz ao ouvir isso..._
 
 Aqui começa nossa Campanha...
 
@@ -149,7 +149,7 @@ As perguntas do questionário abaixo aplicam-se apenas a personagens místicos.
 7. Qual a relação dele com essas pessoas?
 8. Existem pessoas com quem ele REALMENTE pode contar?
 9. Ele possui voz política dentro da ordem?
-10. E em relação ao Arkanun Arcanorum?
+10. E em relação ao _Arkanun Arcanorum_?
 
 Caso o jogador deseje (e tenha pontos de Aprimoramento e Perícia suficientes) ele poderá comprar quantos kits quiser. Quando houver sobreposição de Aprimoramentos garantidos, some os valores até o máximo de 4 (desprezando o excedente). Da mesma forma, some as Perícias até um máximo de 50%. Caso sobrem pontos de Aprimoramento ou de Perícia, eles serão usados mais adiante. 
 
@@ -201,11 +201,11 @@ Assuma que o seu personagem pode ser qualquer coisa que você quiser (desde, é 
 
 Os pontos de Perícia são calculados da seguinte maneira:
 
-    Pontos = 10 x Idade + 5 x INT
+    Pontos = (10 x Idade) + (5 x INT)
 
 OBSERVAÇÃO: Recomenda-se distribuir PRIMEIRO os pontos de Perícia "brutos" (ou seja, aqueles que seu personagem tem direito) e DEPOIS acrescentar os bônus iniciais de Atributos. Isto lhe poupará muito tempo e cálculos.
 
-Desse modo, Peter Finch possui (40x10 + 17x5 =485) 485 pontos para dividir entre seus Kits e Perícias.
+Desse modo, Peter Finch possui (10x40 + 5x17 = 485) 485 pontos para dividir entre seus Kits e Perícias.
 
 Com os kits, Peter Finch ficou com as seguintes Perícias:
 
