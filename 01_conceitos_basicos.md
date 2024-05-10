@@ -1,6 +1,6 @@
 # Conceitos Básicos
 
-![01_DassSchuff.png](_media/01_DassSchuff.png "Dass Schuff")
+<img align="right" src="https://nerun.github.io/sistema-daemon/_media/01_DassSchuff.png">
 
 Em qualquer jogo, para se poder jogar é preciso conhecer as regras e os termos utilizados. O Sistema Daemon não é uma exceção. No decorrer do jogo, ou mesmo quando você estiver criando seu personagem, nós utilizaremos muitos termos com os quais talvez você não esteja familiarizado. Esses conceitos e termos são tratados neste capítulo.
 
