@@ -27,13 +27,13 @@ _Daímōn_ em grego, ou _daemon_ em latim, eram divindades menores, espíritos o
 
 > [!Note]
 > 
-> O Sistema Daemon adotou a acepção grega: esses espíritos, alguns bons, outros maus, que nos rodeiam e nos assombram. Daemon foi escolhido para fazer referência ao gênero de histórias de RPG as quais o sistema se propõe a narrar: sobre o mundo oculto, feitiçaria, anjos, demônios, fantasmas, magos, vampiros, criaturas sobrenaturais extraordinárias, histórias contadas ao redor de uma fogueira e que às vezes nos fazem perder o sono.
+> O Sistema Daemon adotou a acepção grega: esses espíritos, alguns bons, outros maus, que nos rodeiam e nos assombram. O vocábulo foi escolhido para fazer referência ao gênero de histórias de RPG as quais o sistema, em suas raízes, se propunha a narrar: sobre o mundo oculto, feitiçaria, anjos, demônios, fantasmas, magos, vampiros, criaturas sobrenaturais extraordinárias, histórias contadas ao redor de uma fogueira e que às vezes nos fazem perder o sono.
 
-_Nómos_ em grego, significa lei, regra, jurisdição (local onde vigora uma lei) e, por extensão, um distrito ou província administrativa. As 42 províncias do Antigo Egito eram chamadas em hieróglifo de "sepate" (_sepat_), e foram traduzidas em grego como _nómos_. Num sentido mais amplo, nómos é um sistema jurídico, porque sistema é um conjunto de elementos interligados sobre um mesmo assunto. Ou seja, um apanhado de regras.
+_Nómos_ em grego, significa lei, regra, jurisdição (local onde vigora uma lei) e, por extensão, um distrito ou província administrativa. As 42 províncias do Antigo Egito eram chamadas em hieróglifo de "sepate" (_sepat_), e foram traduzidas em grego como _nómos_. Num sentido mais amplo, _nómos_ é um sistema jurídico, porque sistema é um conjunto de elementos interligados sobre um mesmo assunto. Ou seja, um apanhado de regras.
 
 > [!Note]
 > 
-> Por curiosidade, Nomos também era o daemon das leis, estatutos e normas. Nomos era casado com Eusébia, daemon da piedade, e juntos deram à luz a filha Diceosine, daemon da justiça natural. Interpretando: a lei quando aplicada com piedade faz nascer a justiça.
+> Como mera curiosidade, e sem relação com o jogo, Nomos também era o daemon das leis, estatutos e normas. Nomos era casado com Eusébia, daemon da piedade, e juntos deram à luz a filha Diceosine, daemon da justiça natural. Interpretando: a lei quando aplicada com piedade faz nascer a justiça.
 
 _Eikón_ em grego, significa ícone sacro, mas também imagem, ilustração, desenho ou tablatura (partitura). Num sentido amplo, pode significar "escrita", porque a escrita não é nada além de desenhos sobre papel. Embora, para os antigos, era também sagrada, como os hieróglifos egípcios: "glifos sagrados".
 
