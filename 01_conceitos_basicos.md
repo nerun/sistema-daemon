@@ -4,8 +4,6 @@
 
 Em qualquer jogo, para se poder jogar é preciso conhecer as regras e os termos utilizados. O Sistema Daemon não é uma exceção. No decorrer do jogo, ou mesmo quando você estiver criando seu personagem, nós utilizaremos muitos termos com os quais talvez você não esteja familiarizado. Esses conceitos e termos são tratados neste capítulo.
 
-> [!Attention|style:flat]
-> 
 > **Regra de Ouro:** você pode acrescentar, alterar ou remover qualquer regra que desejar, para que seu jogo fique do jeito que você gosta. Não existe forma errada de se jogar RPG.
 
 **Personagem**: antes de começar a jogar, cada jogador precisa criar um personagem, que é a representação deste jogador no mundo fictício. Um jogador pode criar um personagem mago ou guerreiro, conforme desejar. Durante o jogo, o personagem realiza as ações propostas pelo jogador. Um personagem não vai jogar os dados ou consultar as tabelas, da mesma forma que o jogador não vai pular pela janela ou lutar com um vampiro.
