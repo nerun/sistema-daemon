@@ -2,7 +2,7 @@
 
 <p align="center">
 	&mdash; <i><b>Edição Daimonomicon</b></i> &mdash;<br>
-	Copyright &#169; 2021-2024 Daniel "Nerun" Rodrigues. Alguns direitos reservados.
+	Copyright © 2021-2024 Daniel "Nerun" Rodrigues. Alguns direitos reservados.
 </p>
 
 Este site disponibiliza as regras do **Sistema Daemon** &mdash; mas não o Universo Trevas/Arkanun &mdash; no [formato markdown](manifesto.md). O Sistema Daemon é distribuído sob os termos da [Licença Daemon](LICENSE.md).

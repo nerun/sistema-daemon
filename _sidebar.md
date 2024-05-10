@@ -1,7 +1,8 @@
-- [Exemplos Markdown](Sample.md)
 - [Manifesto apologético](manifesto.md)
+- [Exemplos Markdown](Sample.md)
 
 ---
+<span style="font-size:14pt; font-weight:bold">Daimonomicon</span>
 - [1 Conceitos Básicos](01_conceitos_basicos.md)
 - [2 Criação de Personagens]()
 - [3 Kits de Personagens]()
@@ -32,9 +33,10 @@
 - [10 Regras e Testes]()
 - [11 Desenvolvendo o Personagem (Experiência)]()
 - [12 Criaturas Sobrenaturais]()
+- [Licença](LICENSE.md)
 
 ---
-- Sites Recomendados
-  - [RPG Wiki](https://wiki.daemon.com.br)
-  - [Daemon Editora](https://www.daemoneditora.com.br)
-  - [GURP*Zine*](https://www.gurpzine.com.br)
+<span style="font-size:14pt; font-weight:bold">Recomendados</span>
+- [RPG Wiki](https://wiki.daemon.com.br)
+- [Daemon Editora](https://www.daemoneditora.com.br)
+- [GURP*Zine*](https://www.gurpzine.com.br)

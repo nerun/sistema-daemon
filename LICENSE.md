@@ -1,3 +1,14 @@
+# Daimonomicon
+
+Daimonomicon (C) 2021-2024 Daniel "Nerun" Rodrigues. Alguns direitos reservados.
+
+Daimonomicon é um sistema de jogo aberto; você pode redistribuí-lo e/ou modificá-lo sob os termos da Licença Daemon.
+
+Originalmente disponível para:
+- consulta online em https://nerun.github.io/sistema-daemon
+- acesso ao código-fonte em https://github.com/nerun/sistema-daemon
+- download direto em https://github.com/nerun/sistema-daemon/archive/refs/heads/master.zip
+
 # Licença Daemon
 
 Sistema Daemon, RPGQuest e Universo Trevas/Arkanun (o "conteúdo aberto") são Copyright (C) 1998, Daemon Editora. Autores Marcelo Del Debbio, Norson Botrel et. al. Alguns direitos reservados. O conteúdo aberto está disponível na RPG Wiki <[wiki.daemon.com.br](https://wiki.daemon.com.br)>.
