@@ -1,4 +1,6 @@
-# Licença Daemon
+# Licença
+
+DAIMONOMICON
 
 Daimonomicon (C) 2021-2024 Daniel "Nerun" Rodrigues. Alguns direitos reservados.
 
@@ -8,6 +10,8 @@ Originalmente disponível para:
 - consulta online em https://nerun.github.io/sistema-daemon
 - acesso ao código-fonte em https://github.com/nerun/sistema-daemon
 - download direto em https://github.com/nerun/sistema-daemon/archive/refs/heads/master.zip
+
+LICENÇA DAEMON
 
 Sistema Daemon, RPGQuest e Universo Trevas/Arkanun (o "conteúdo aberto") são Copyright (C) 1998, Daemon Editora. Autores Marcelo Del Debbio, Norson Botrel et. al. Alguns direitos reservados. O conteúdo aberto está disponível na RPG Wiki <[wiki.daemon.com.br](https://wiki.daemon.com.br)>.
 
