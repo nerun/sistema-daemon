@@ -37,7 +37,7 @@ progressão era visivelmente mista: exponencial mais ou menos até o 9º
 nível e linear a partir daí. Na 3ª edição a progressão era
 exclusivamente polinomial, adotando uma função simples e elegante:
 
-$$\text{XP} = {500 \times {({n^{2} - n})}}$$
+$$XP = 500 \times (n^2 - n)$$
 
 Toda essa simplicidade e elegância se perderam nas 4ª e 5ª edições, que
 adotaram polinômios de 5º grau ou maior! E nenhuma das funções que se
@@ -82,10 +82,10 @@ Sistema d20...**
 
 Seja como for, à primeira vista, a função adotada desde a 3ª edição
 parece ser exponencial, seguindo alguma variação da equação básica de
-Daemon: Y = K × 2^A÷6, mas não é. A função que melhor representa a
+Daemon: $Y = K \times 2^{\frac{A}{6}}$, mas não é. A função que melhor representa a
 curva de experiência no Sistema Daemon é um polinômio de 5º grau:
 
-$$\frac{n{({56{n^{4} - 883}{n^{3} + 7496}{n^{2} - 6242}{n + 17833}})}}{10000}$$
+$$ \frac{n(56n^4 - 883n^3 + 7496n^2 - 6242n + 17833)}{10000} $$
 
 Onde "*n*" é o nível, e o resultado da equação é a XP necessária para
 chegar naquele nível (arredondando). Não que a equação seja relevante
@@ -202,18 +202,14 @@ A Tabela de Avanço de Nível baseada nessa equação segue abaixo, onde
 | 12    | 180 |    4   |  36  |
 | 13    | 200 |    3   |  40  |
 | 14    | 215 |    4   |  43  |
-| 15    | 235 |    -   |  47  |
+| 15    | 235 |    0   |  47  |
 
 #### Aritmética Simples
 
 É possível simplificar ainda mais, adotando uma progressão linear de
 soma simples (+15 **ou** +20), em vez da soma alternada (+15/+20). Se,
 para passar de nível, forem necessários 15 XP/nível fixos, a função
-seria:
-
-$$f{{(n)} = 15}{({n - 1})}$$
-
-O resultado ainda seria bastante
+seria: $f(n) = 15(n - 1)$. O resultado ainda seria bastante
 razoável: a passagem de nível se daria a cada 3 aventuras, considerando
 ganhos médios de 5 XP / aventura, e para chegar ao nível 15 seriam
 precisos 210 XP, que é quase o mesmo tanto do nível 14 (215 XP) na soma
