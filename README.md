@@ -13,7 +13,7 @@ __Daimonomicon__ consolida as regras dos cinco principais livros do Sistema Daem
 
 Em termos de regras, a mecânica do jogo não mudou. Os jogadores veteranos notarão que todas as regras estão aqui. Em muitos pontos a apresentação literária das regras — a redação dada para descrevê-las — pode ter mudado, mas as regras ainda são as mesmas, apenas explicadas de outra forma. Não foi uma mudança radical, entretanto, a maior parte do tempo são apenas detalhes, de modo que o leitor desatento nem vai notar, ou vai sentir que algo mudou sem saber ao certo o que.
 
-A única mudança "radical" foi na coluna de _Experiência_ na _Tabela de Avanço de Nível_, no [Capítulo 11 - Desenvolvendo o Personagem (Experiência)](11_experiencia.md). As razões _detalhadas_ para essa atualização estão explicadas no artigo [O Problema da Progressão em Nível](extra_02-o_problema_da_progressao_em_nivel.md).
+A única mudança "radical" foi a coluna de _Experiência_, na _Tabela de Avanço de Nível_, no [Capítulo 11 - Desenvolvendo o Personagem (Experiência)](11_experiencia.md). As razões _detalhadas_ para essa atualização estão explicadas no artigo [O Problema da Progressão em Nível](extra_02-o_problema_da_progressao_em_nivel.md). Foi uma atualização necessária, pois comprometia a jogabilidade.
 
 ### Etimologia
 
