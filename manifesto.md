@@ -34,7 +34,7 @@ O `arquivo.md` informa ao pandoc qual arquivo converter. A opção `-s` diz para
 
 A aparência geral do arquivo convertido é muito boa e não há do que reclamar.
 
-July 27, 2023 (_revisado January 23, 2024_)
+27 de Julho de 2023 (_revisado em 23 de Janeiro de 2024_)
 
 **Daniel Dias Rodrigues**
 
