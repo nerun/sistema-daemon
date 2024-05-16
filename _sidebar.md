@@ -1,5 +1,6 @@
-- [Manifesto pelo formato universal](manifesto.md)
-- [Exemplos Markdown](Sample.md)
+- [Exemplos Markdown](extra_00-sample.md)
+- [Manifesto pelo formato universal](extra_01-manifesto.md)
+- [Problema da Progressão em Nível](extra_02-o_problema_da_progressao_em_nivel.md)
 
 ---
 

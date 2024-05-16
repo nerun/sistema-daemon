@@ -5,11 +5,15 @@
 	Copyright © 2021-2024 Daniel "Nerun" Rodrigues. Alguns direitos reservados.
 </p>
 
-Este site disponibiliza as regras do **Sistema Daemon** &mdash; mas não o Universo Trevas/Arkanun &mdash; no [formato markdown](manifesto.md). O Sistema Daemon é distribuído sob os termos da [Licença Daemon](LICENSE.md).
+Este site disponibiliza as regras do **Sistema Daemon** &mdash; mas não o Universo Trevas/Arkanun &mdash; no [formato markdown](extra_01-manifesto.md). O Sistema Daemon é distribuído sob os termos da [Licença Daemon](LICENSE.md).
 
 ## Sobre esta Edição
 
 __Daimonomicon__ consolida as regras dos cinco principais livros do Sistema Daemon e que constituem a sua espinha dorsal: __Anjos - A Cidade de Prata__, __Demônios - A Divina Comédia__, __Spiritum - O Reino dos Mortos__, __Trevas__ e __Vampiros Mitológicos__. Além de ser um amplo trabalho de uniformização das regras, é também uma revisão textual, corrigindo erros de digitação e formatação, e adaptando ao Acordo Ortográfico de 1990, em vigor desde 2009, em caráter transitório e facultativo até 2015, e obrigatório desde 2016. Esses manuais foram escritos antes de 2004 e há muito urgiam por uma revisão.
+
+Em termos de regras, a mecânica do jogo não mudou. Os jogadores veteranos notarão que todas as regras estão aqui. Em muitos pontos a apresentação literária das regras — a redação dada para descrevê-las — pode ter mudado, mas as regras ainda são as mesmas, apenas explicadas de outra forma. Não foi uma mudança radical, entretanto, a maior parte do tempo são apenas detalhes, de modo que o leitor desatento nem vai notar, ou vai sentir que algo mudou sem saber ao certo o que.
+
+A única mudança "radical" foi na coluna de _Experiência_ na _Tabela de Avanço de Nível_, no [Capítulo 11 - Desenvolvendo o Personagem (Experiência)](11_experiencia.md). As razões _detalhadas_ para essa atualização estão explicadas no artigo [O Problema da Progressão em Nível](extra_02-o_problema_da_progressao_em_nivel.md).
 
 ### Etimologia
 
