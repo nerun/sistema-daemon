@@ -12,10 +12,10 @@
 - [6 Pontos Heroicos <span style="color:red">❌</span>](06_pontos_heroicos.md)
 - [7 Pontos de Fé <span style="color:red">❌</span>](07_pontos_de_fe.md)
 - [8 Equipamentos <span style="color:red">❌</span>](08_equipamentos.md)
-- 9 Magia <span style="color:red">❌</span>
+- <small>9 Magia</small> <span style="color:red">❌</span>
   - [9.1 Introdução <span style="color:red">❌</span>](09_magia/01_magia.md)
   - [9.2 Regras de Magia <span style="color:red">❌</span>](09_magia/02_regras_de_magia.md)
-  - 9.3 Caminhos <span style="color:red">❌</span>
+  - <small>9.3 Caminhos</small> <span style="color:red">❌</span>
     - [9.3.1 Fogo <span style="color:red">❌</span>](09_magia/03_caminhos/01_fogo.md)
     - [9.3.2 Água <span style="color:red">❌</span>](09_magia/03_caminhos/02_agua.md)
     - [9.3.3 Ar <span style="color:red">❌</span>](09_magia/03_caminhos/03_ar.md)
