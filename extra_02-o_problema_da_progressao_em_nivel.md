@@ -1,6 +1,4 @@
-# DAEMON PAPERS #1
-
-# O problema da progressão em nível
+# DAEMON PAPERS #1 — O problema da progressão em nível
 
 > Neste paper pretende-se analisar a "Tabela de Avanço de Nível",
 > demonstrando como os requisitos exponenciais de XP para passar de
@@ -84,7 +82,7 @@ Sistema d20...**
 
 Seja como for, à primeira vista, a função adotada desde a 3ª edição
 parece ser exponencial, seguindo alguma variação da equação básica de
-Daemon: Y = K × 2^A÷6^, mas não é. A função que melhor representa a
+Daemon: Y = K × 2^A÷6, mas não é. A função que melhor representa a
 curva de experiência no Sistema Daemon é um polinômio de 5º grau:
 
 $$\frac{n{({56{n^{4} - 883}{n^{3} + 7496}{n^{2} - 6242}{n + 17833}})}}{10000}$$
