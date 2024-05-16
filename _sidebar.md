@@ -34,7 +34,7 @@
 - [10 Regras e Testes <span style="color:red">❌</span>](10_regras_e_testes.md)
 - [11 Desenvolvendo o Personagem (Experiência) <span style="color:red">❌</span>](11_experiencia.md)
 - [12 Criaturas Sobrenaturais <span style="color:red">❌</span>](12_criaturas.md)
-- [Licenciamento <span style="color:green">✔</span>](LICENSE.md)
+- [Licença <span style="color:green">✔</span>](LICENSE.md)
 
 ---
 
