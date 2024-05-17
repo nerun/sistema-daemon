@@ -1,4 +1,3 @@
-- [Exemplos Markdown](extra_00-sample.md)
 - [Manifesto pelo formato universal](extra_01-manifesto.md)
 - [Problema da Progressão em Nível](extra_02-o_problema_da_progressao_em_nivel.md)
 
@@ -43,3 +42,4 @@
 - [RPG Wiki](https://wiki.daemon.com.br)
 - [Daemon Editora](https://www.daemoneditora.com.br)
 - [GURP*Zine*](https://www.gurpzine.com.br)
+- [Exemplos Markdown](extra_00-sample.md)
