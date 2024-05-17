@@ -1,13 +1,16 @@
-<h1 align="center">Documento de Referência do Sistema Daemon</h1>
+# Documento de Referência do Sistema Daemon (Edição Daimonomicon)
 
-<p align="center">
-	&mdash; <i><b>Edição Daimonomicon</b></i> &mdash;<br>
-	Copyright © 2021-2024 Daniel "Nerun" Rodrigues. Alguns direitos reservados.
-</p>
+> [!Attention]
+>
+> [![Classind](https://nerun.github.io/sistema-daemon/_media/ClassInd_Auto_18.png "Autoclassificação Indicativa 18 anos")](https://pt.wikipedia.org/wiki/Sistema_de_Classifica%C3%A7%C3%A3o_Indicativa_Brasileiro#Autoclassifica%C3%A7%C3%A3o)
+>
+> _Autoclassificação Indicativa 18 anos._
+>
+> _Esta obra é desaconselhável para menores de 18 anos, ou pessoas com QI menor que 80. Isto é só um jogo, a realidade é muito pior._
 
-<p align="center"><a href="https://pt.wikipedia.org/wiki/Sistema_de_Classifica%C3%A7%C3%A3o_Indicativa_Brasileiro#Autoclassifica%C3%A7%C3%A3o" alt="Autoclassificação Indicativa 18 anos"><img src="https://nerun.github.io/sistema-daemon/_media/ClassInd_Auto_18.png" alt="Autoclassificação Indicativa 18 anos" width="70px"></a></p>
+Este site disponibiliza no [formato markdown](extra_01-manifesto.md) as regras do **Sistema Daemon (_Edição Daimonomicon_)**, mas não o Universo Trevas/Arkanun. Distribuído sob os termos da [Licença Daemon](LICENSE.md).
 
-Este site disponibiliza as regras do **Sistema Daemon** &mdash; mas não o Universo Trevas/Arkanun &mdash; no [formato markdown](extra_01-manifesto.md). O Sistema Daemon é distribuído sob os termos da [Licença Daemon](LICENSE.md).
+Fale com o responsável: Nerun \<gurpzine@gurpzine.com.br\>.
 
 ## Sobre esta Edição
 
