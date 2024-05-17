@@ -5,6 +5,8 @@
 	Copyright © 2021-2024 Daniel "Nerun" Rodrigues. Alguns direitos reservados.
 </p>
 
+<p align="center"><a href="https://pt.wikipedia.org/wiki/Sistema_de_Classifica%C3%A7%C3%A3o_Indicativa_Brasileiro#Autoclassifica%C3%A7%C3%A3o" alt="Autoclassificação Indicativa 18 anos"><img src="https://nerun.github.io/sistema-daemon/_media/ClassInd_Auto_18.png" alt="Autoclassificação Indicativa 18 anos" width="70px"></a></p>
+
 Este site disponibiliza as regras do **Sistema Daemon** &mdash; mas não o Universo Trevas/Arkanun &mdash; no [formato markdown](extra_01-manifesto.md). O Sistema Daemon é distribuído sob os termos da [Licença Daemon](LICENSE.md).
 
 ## Sobre esta Edição
@@ -15,7 +17,7 @@ Em termos de regras, a mecânica do jogo não mudou. Os jogadores veteranos nota
 
 A única mudança "radical" foi a coluna de _Experiência_, na _Tabela de Avanço de Nível_, no [Capítulo 11 - Desenvolvendo o Personagem (Experiência)](11_experiencia.md). As razões _detalhadas_ para essa atualização estão explicadas no artigo [O Problema da Progressão em Nível](extra_02-o_problema_da_progressao_em_nivel.md). Foi uma atualização necessária, pois comprometia a jogabilidade.
 
-### Etimologia
+## Etimologia
 
 A ideia desse título foi criando forma quando _Marcelo Del Debbio_ se referiu à esses livros como "os cinco básicos":
 
@@ -42,3 +44,7 @@ _Nómos_ em grego, significa lei, regra, jurisdição (local onde vigora uma lei
 _Eikón_ em grego, significa ícone sacro, mas também imagem, ilustração, desenho ou tablatura (partitura). Num sentido amplo, pode significar "escrita", porque a escrita não é nada além de desenhos sobre papel. Embora, para os antigos, era também sagrada, como os hieróglifos egípcios: "glifos sagrados".
 
 Um conjunto de escritos é um livro. Um livro (_eikón_) de regras (_nómos_) é um manual. Então Daimonomicon pode ser traduzido como __Manual do Sistema Daemon__.
+
+> [!Warning]
+> 
+> Diversos estudiosos de H. P. Lovecraft, muitos com conhecimento da língua grega antiga, argumentam que a etimologia da palavra _Necronomicon_ foi mal construída e está quase totalmente incorreta. Dentre eles, S. T. Joshi que, em seu livro _The Rise and Fall of the Cthulhu Mythos_ (Mythos Books, 2008, pp. 34-35), afirma que: "A última parte dela é particularmente errônea, uma vez que _-ikon_ nada mais é do que um sufixo formador de adjetivo neutro e não tem nada a ver com _eikón_ (imagem)". Reconhecido isso, me concedam uma [licença poética](https://pt.wikipedia.org/wiki/Licen%C3%A7a_po%C3%A9tica), e considerem a etimologia de _Daimonomicon_ como correta.
