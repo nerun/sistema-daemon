@@ -33,7 +33,7 @@
   - [9.4 Ferramentas Místicas <span style="color:red">❌</span>](09_magia/04_ferramentas_misticas.md)
   - [9.5 Rituais <span style="color:red">❌</span>](09_magia/05_rituais.md)
 - [10 Regras e Testes <span style="color:red">❌</span>](10_regras_e_testes.md)
-- [11 Desenvolvendo o Personagem (Experiência) <span style="color:red">❌</span>](11_experiencia.md)
+- [11 Desenvolvendo o Personagem <span style="color:red">❌</span>](11_experiencia.md)
 - [12 Criaturas Sobrenaturais <span style="color:red">❌</span>](12_criaturas.md)
 - [Licença <span style="color:green">✔</span>](LICENSE.md)
 
