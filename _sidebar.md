@@ -5,7 +5,7 @@
 
 <span style="font-size:14pt; font-weight:bold">Daimonomicon</span>
 - [1 Conceitos Básicos <span style="color:green">✔</span>](01_conceitos_basicos.md)
-- [2 Criação de Personagem <span style="color:orange">⚙</span>](02_criacao_de_personagem.md)
+- [2 Criação de Personagem <span style="color:orange">&#128736;</span>](02_criacao_de_personagem.md)
 - [3 Kits de Personagem <span style="color:red">❌</span>](03_kits_de_personagem.md)
 - [4 Aprimoramentos <span style="color:red">❌</span>](04_aprimoramentos.md)
 - [5 Perícias <span style="color:red">❌</span>](05_pericias.md)

@@ -12,7 +12,7 @@ Nas palavras do Projeto Gutenberg:[^1]
 
 ## Markdown
 
-Claro, o Projeto Gutenberg só aceita Padrão ASCII Puro (arquivos .txt), mas [markdown](https://en.wikipedia.org/wiki/Markdown) é uma linguagem de marcação que é _essencialmente_ texto puro, ou seja, tem a mesma legibilidade quando lido em um editor de texto simples.
+Claro, o Projeto Gutenberg só aceita texto puro (arquivos .txt em UTF-8), mas [markdown](https://en.wikipedia.org/wiki/Markdown) é uma linguagem de marcação que é _essencialmente_ texto puro, ou seja, tem a mesma legibilidade quando lido em um editor de texto simples.
 
 Markdown é uma linguagem de marcação leve (ou humana) com sintaxe simples e discreta. Ele foi projetado para ser fácil de escrever usando qualquer editor de texto genérico e fácil de ler em sua forma bruta. Markdown é uma linguagem de marcação destinada à criação de texto formatado usando qualquer editor de texto simples. Na verdade, é tão simples e discreto que uma pessoa pode abrir um arquivo markdown (extensão ".md") e lê-lo como se fosse um "arquivo Padrão ASCII Puro". Você pode renomear sua extensão para ".txt" se preferir. No Windows, basta usar o bloco de notas, e no Linux abundam os editores de texto simples: gedit (e suas variantes), kate, emacs, vim, nano etc.
 
