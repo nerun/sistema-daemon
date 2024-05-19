@@ -36,7 +36,7 @@ _Daímōn_ em grego, ou _daemon_ em latim, eram divindades menores, espíritos o
 
 > [!Note]
 > 
-> O Sistema Daemon adotou a acepção grega: esses espíritos, alguns bons, outros maus, que nos rodeiam e nos assombram. O vocábulo foi escolhido para fazer referência ao gênero de histórias de RPG as quais o sistema, em suas raízes, se propunha a narrar: sobre o mundo oculto, feitiçaria, anjos, demônios, fantasmas, magos, vampiros, criaturas sobrenaturais extraordinárias, histórias contadas ao redor de uma fogueira e que às vezes nos fazem perder o sono.
+> O Sistema Daemon adotou a acepção grega: esses espíritos, alguns bons, outros maus, que nos rodeiam e nos assombram. O vocábulo foi escolhido para fazer referência ao gênero de histórias de RPG as quais o sistema, em suas raízes, se propunha a narrar: sobre o mundo oculto, feitiçaria, anjos, demônios, fantasmas, magos, vampiros, criaturas sobrenaturais extraordinárias, histórias contadas ao redor da fogueira e que às vezes nos fazem perder o sono.
 
 _Nómos_ em grego, significa lei, regra, jurisdição (local onde vigora uma lei) e, por extensão, um distrito ou província administrativa. As 42 províncias do Antigo Egito eram chamadas em hieróglifo de "sepate" (_sepat_), e foram traduzidas em grego como _nómos_. Num sentido mais amplo, _nómos_ é um sistema jurídico, porque sistema é um conjunto de elementos interligados sobre um mesmo assunto. Ou seja, um apanhado de regras.
 
@@ -50,4 +50,4 @@ Um conjunto de escritos é um livro. Um livro (_eikón_) de regras (_nómos_) é
 
 > [!Warning]
 > 
-> Alguns estudiosos de H. P. Lovecraft com conhecimento da língua grega antiga, argumentam que a etimologia da palavra _Necronomicon_ foi mal construída e está quase totalmente incorreta. Dentre eles, S. T. Joshi que, em seu livro _The Rise and Fall of the Cthulhu Mythos_ (Mythos Books, 2008, pp. 34-35), afirma que: "A última parte dela é particularmente errônea, uma vez que _-ikon_ nada mais é do que um sufixo formador de adjetivo neutro e não tem nada a ver com _eikón_ (imagem)". Esperamos que a [licença poética](https://pt.wikipedia.org/wiki/Licen%C3%A7a_po%C3%A9tica) concedida a Lovecraft também se estenda para a etimologia que escolhemos para _Daimonomicon_.
+> Alguns estudiosos de H. P. Lovecraft, com conhecimento da língua grega antiga, argumentam que a etimologia da palavra _Necronomicon_ foi mal construída e está quase totalmente incorreta. Dentre eles, S. T. Joshi que, em seu livro _The Rise and Fall of the Cthulhu Mythos_ (Mythos Books, 2008, pp. 34-35), afirma que: "A última parte dela é particularmente errônea, uma vez que _-ikon_ nada mais é do que um sufixo formador de adjetivo neutro e não tem nada a ver com _eikón_ (imagem)". Esperamos que a [licença poética](https://pt.wikipedia.org/wiki/Licen%C3%A7a_po%C3%A9tica) concedida a Lovecraft também se estenda para a etimologia que escolhemos para _Daimonomicon_.
