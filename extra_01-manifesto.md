@@ -24,7 +24,7 @@ A maneira mais fácil de fazer isso é importar seu conteúdo diretamente para u
 
 No entanto, o programa [pandoc](https://pandoc.org) está disponível para vários sistemas operacionais: Windows, Linux, BSD, macOS etc. E é gratuito e de código aberto.
 
-Claro, pandoc é uma ferramenta de linha de comando, projetada para ser usada em prompt de comando, powershell, terminal Linux etc. Mas é tão fácil quanto escrever isto:
+Claro, pandoc é uma ferramenta de linha de comando, projetada para ser usada em prompt de comando, powershell, terminal Linux etc., mas é tão fácil quanto escrever isto:
 
 ```shell
 $ pandoc arquivo.md -f markdown -t docx -s -o arquivo.docx
