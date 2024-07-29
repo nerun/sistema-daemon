@@ -7,7 +7,7 @@ Daimonomicon (C) 2021-2024 Daniel "Nerun" Rodrigues. Alguns direitos reservados.
 Daimonomicon é um sistema de jogo aberto; você pode redistribuí-lo e/ou modificá-lo sob os termos da Licença Daemon.
 
 Originalmente disponível para:
-- consulta online em https://nerun.github.io/sistema-daemon
+- leitura online em https://nerun.github.io/sistema-daemon
 - acesso ao código-fonte em https://github.com/nerun/sistema-daemon
 - download direto em https://github.com/nerun/sistema-daemon/archive/refs/heads/master.zip
 

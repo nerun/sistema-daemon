@@ -50,4 +50,6 @@ Um conjunto de escritos é um livro. Um livro (_eikón_) de regras (_nómos_) é
 
 > [!Warning]
 > 
-> Alguns estudiosos de H. P. Lovecraft, com conhecimento da língua grega antiga, argumentam que a etimologia da palavra _Necronomicon_ foi mal construída e está quase totalmente incorreta. Dentre eles, S. T. Joshi que, em seu livro _The Rise and Fall of the Cthulhu Mythos_ (Mythos Books, 2008, pp. 34-35), afirma que: "A última parte dela é particularmente errônea, uma vez que _-ikon_ nada mais é do que um sufixo formador de adjetivo neutro e não tem nada a ver com _eikón_ (imagem)". Esperamos que a [licença poética](https://pt.wikipedia.org/wiki/Licen%C3%A7a_po%C3%A9tica) concedida a Lovecraft também se estenda para a etimologia que escolhemos para _Daimonomicon_.
+> Alguns estudiosos de H. P. Lovecraft, com conhecimento da língua grega antiga, argumentam que a etimologia da palavra _Necronomicon_ foi mal construída e está quase totalmente incorreta. Dentre eles, S. T. Joshi que, em seu livro _The Rise and Fall of the Cthulhu Mythos_ (Mythos Books, 2008, pp. 34-35), afirma: "A última parte dela é particularmente errônea, uma vez que _-ikon_ nada mais é do que um sufixo formador de adjetivo neutro e não tem nada a ver com _eikón_ (imagem)".
+>
+> Gostaríamos que a [licença poética](https://pt.wikipedia.org/wiki/Licen%C3%A7a_po%C3%A9tica) concedida a Lovecraft também se estenda a nós, e que os leitores ao menos aceitem e respeitem o significado que escolhemos dar para o substantivo _Daimonomicon_, sem preconceitos e julgamentos de qualquer natureza.
