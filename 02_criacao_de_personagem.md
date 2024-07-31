@@ -95,17 +95,13 @@ Para facilitar, fornecemos um questionário que, embora não seja pequeno, é po
 
 O Mestre deve recompensar uma história bem construída, permitindo ao jogador que utilize os amigos e familiares como contatos ou aliados confiáveis, caso seu personagem necessite de ajuda durante o curso de uma Aventura.
 
-> _Nosso exemplo será Peter Dvorak Finch, nascido em New York em 1959, filho de uma imigrante checa foragida da Segunda Guerra Mundial e de um sargento novaiorquino. Finch teve uma infância pobre, sendo obrigado por seus pais a estudar enquanto todos os outros garotos passavam o tempo cometendo pequenos furtos e metidos em encrencas. Possui um irmão chamado Marc, que trabalhava com seu pai em uma mercearia, próxima à ponte do Brooklin. Sua mãe faleceu cedo._
+> _Nosso exemplo será Peter Finch, nascido em Nova York em 1987, filho de um sargento novaiorquino que serviu na Alemanha Ocidental e de uma secretária da Stasi que desertou da Alemanha Oriental. Finch teve uma infância pobre, sendo obrigado por seus pais a estudar enquanto todos os outros garotos passavam o tempo cometendo pequenos furtos ou se metendo em encrencas. Possui um irmão chamado Marc, que trabalha com seu pai em uma mercearia, próxima à ponte do Brooklin. Sua mãe faleceu cedo._
 >
-> _Peter formou-se em direito em 1984, dois anos após ter seu primeiro contato com os iluminados e com a magia. Membro de uma sociedade secreta disposta a ajudar a humanidade, Peter utilizava seus conhecimentos como advogado para dar auxílio às pessoas pobres de sua antiga vizinhança._
+> _Peter formou-se em direito em 2012, dois anos após ter seu primeiro contato com os iluminados e com a magia. Membro de uma sociedade secreta disposta a ajudar a humanidade, Peter utilizava seus conhecimentos como advogado para dar auxílio às pessoas pobres de sua antiga vizinhança._
 >
-> _Ele vivia uma vida normal, até o dia em que chegou uma carta, no inverno de 1997. Descobriu que sua tia-avó, de quem há muito não tinha notícia, também imigrante checa, vivia na Inglaterra e faleceu por aqueles dias. Sem descendentes diretos, e falecida sua mãe, os únicos herdeiros eram Peter e seu irmão Marc. Peter foi até Londres, como representante legal seu e de seu irmão, para resolver a papelada e verificar um item especial, escondido a tanto custo das tropas nazistas. Finch procurou ajuda dos iluminados e conseguiu abrigo na Loja de Praga, onde encontraria outros membros que o auxiliariam no que fosse necessário._
+> _Ele vivia uma vida normal, até o dia em que chegou uma carta, no inverno de 2025. Descobriu que sua mãe tinha um irmão excêntrico que imigrou para a Inglaterra e que, falecido recentemente, lhe deixara de herança um "item especial", escondido a muito custo dos nazistas e comunistas. Peter precisaria ir até Londres para participar da leitura do testamento. De posse do artefato, procurou a ajuda dos iluminados e conseguiu abrigo na Loja de Praga, onde encontraria outros membros que o auxiliariam no que fosse necessário._
 >
-> _O artefato arruinou sua vida e a de alguns dos quais ele amava. Fez inimigos na Europa e também aliados importantes. Galgou postos na sociedade secreta a que pertence, tornando-se Mestre da Loja do Brooklyn. Ascendeu em sua carreira jurídica e tornou-se um advogado renomado. Seu pai foi devorado por um demônio nazista, e seu irmão Marc é dono de uma tradicional mercearia no bairro, e pratica alguns rituais de prosperidade na dispensa dos fundos._
->
-> _Peter tem 65 anos e a vida seguia calma, até que, em 2024, recebe um pedido de ajuda do Mestre da Loja do "French Quarter" de New Orleans. Eventos estranhos começaram a ocorrer após um círculo de leitura em voz alta de um alfarrábio de feitiços. Na mensagem, Peter reconhece um símbolo familiar, visto na Europa 27 anos atrás. Ele teria que verificar, e seu irmão não ficaria feliz ao ouvir isso..._
-
-Aqui começa nossa Campanha...
+> _Aqui começa nossa Campanha..._
 
 ## Passo 3: Atributos
 
@@ -189,6 +185,7 @@ __Advogado (custo 2)__
 - Recursos 2
 
 __Poderes Mágicos 2__
+
 __Fobia (medo de lugares altos) -1__
 
 __Total: 5 pontos__
@@ -201,13 +198,13 @@ Assuma que o seu personagem pode ser qualquer coisa que o jogador quiser, desde 
 
 Os pontos de Perícia são calculados da seguinte maneira:
 
-<p align="center">Pontos = (10 x Idade) + (5 x INT)</p>
+$$Pontos = (10 \times Idade) + (5 \times INT)$$
 
 > [!Tip]
 > 
 > DICA: recomenda-se distribuir PRIMEIRO os pontos de Perícia "brutos" (ou seja, aqueles a que seu personagem tem direito) e DEPOIS acrescentar os bônus iniciais de Atributos. Isto lhe poupará muito tempo e cálculos.
 
-_Desse modo, Peter Finch possui 500 pontos para dividir entre seus Kits e Perícias. Porque `(10 x 65) + (5 x 17) = 735` mas, por se tratar de Campanha realista, ele está limitado a 500 pontos._
+_Desse modo, Peter Finch possui 500 pontos para dividir entre seus Kits e Perícias. Porque $(10 \times 65) + (5 \times 17) = 735$ mas, por se tratar de Campanha realista, ele está limitado a 500 pontos._
 
 _Com os kits, Peter Finch ficou com as seguintes Perícias:_
 
