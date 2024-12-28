@@ -99,7 +99,7 @@ O Mestre deve recompensar uma história bem construída, permitindo ao jogador q
 >
 > _Peter formou-se em direito em 2012, dois anos após ter seu primeiro contato com os iluminados e com a magia. Membro de uma sociedade secreta disposta a ajudar a humanidade, Peter utilizava seus conhecimentos como advogado para dar auxílio às pessoas pobres de sua antiga vizinhança._
 >
-> _Ele vivia uma vida normal, até o dia em que chegou uma carta, no inverno de 2025. Descobriu que sua mãe tinha um irmão excêntrico que imigrou para a Inglaterra e que, falecido recentemente, lhe deixara de herança um "item especial", escondido a muito custo dos nazistas e comunistas. Peter precisaria ir até Londres para participar da leitura do testamento. De posse do artefato, procurou a ajuda dos iluminados e conseguiu abrigo na Loja de Praga, onde encontraria outros membros que o auxiliariam no que fosse necessário._
+> _Ele vivia uma vida normal, até o dia em que chegou uma carta, no inverno de 2025. Descobriu que sua mãe tinha um irmão excêntrico que imigrou para a Inglaterra e que, falecido recentemente, lhe deixara de herança um "item especial", escondido a muito custo de nazistas e comunistas. Peter precisaria ir até Londres para participar da leitura do testamento. De posse do artefato, procurou a ajuda dos iluminados e conseguiu abrigo na Loja de Praga, onde encontraria outros membros que o auxiliariam no que fosse necessário._
 >
 > _Aqui começa nossa Campanha..._
 
