@@ -1,5 +1,5 @@
 * SRD ring
-  - [Cepheus Engine SRD](https://github.com/nerun/cepheus)
+  - [Cepheus Engine SRD](https://nerun.github.io/cepheus)
   - [Legend SRD](https://nerun.github.io/legend-srd)
 
 * Favoritos
