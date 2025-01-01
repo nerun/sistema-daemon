@@ -2,9 +2,7 @@
 
 > [!Attention]
 >
-> [![Classind](https://nerun.github.io/sistema-daemon/_media/ClassInd_Auto_18.png "Autoclassificação Indicativa 18 anos")](https://pt.wikipedia.org/wiki/Sistema_de_Classifica%C3%A7%C3%A3o_Indicativa_Brasileiro#Autoclassifica%C3%A7%C3%A3o)
->
-> _Autoclassificação Indicativa 18 anos._
+> [![Classind](./_media/ClassInd_Auto_18.png "Autoclassificação Indicativa 18 anos")](https://pt.wikipedia.org/wiki/Sistema_de_Classifica%C3%A7%C3%A3o_Indicativa_Brasileiro#Autoclassifica%C3%A7%C3%A3o)
 >
 > _Esta obra é desaconselhável para menores de 18 anos, ou pessoas com QI menor que 80. Isto é só um jogo, a realidade é muito pior._
 
